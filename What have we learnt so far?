@@ -1,0 +1,76 @@
+
+Basic  structure  of  Computer
+Stored  Program  Concept
+Binary  Arithmetic  –  Addition,Subtraction, Multiplication
+Data Representation – Fixed and Floating Point, Semiconductor Memories.
+
+Introduction to C
+Data Types
+Constants
+Variables
+Expressions
+Statements
+Operators
+Data Input and Output.
+
+Control Statements
+
+Arrays
+Recursion
+Storage Classes
+Library Functions.
+
+Functions
+User Defined Data Types
+Structures
+Unions
+Passing  Structure to Functions.
+
+Pointers
+Operation  on    Pointers
+Passing  Pointers to  Functions
+Data  Files  –  Opening, Closing, Creating Data Files
+
+
+What have we learnt so far?
+
+1, 1, 2, 3, 5, 8, 13 ...
+a, b, c
+   a, b, c
+      a, b, c
+         a, b, c
+
+a=1
+b=1
+print a
+print b
+c= a+b
+print c
+a=b
+b=c
+c=a+b
+print c
+a=b
+b=c
+c=a+b
+print c
+a=b
+b=c
+c=a+b
+print c
+a=b
+b=c
+c=a+b
+print c
+a=b
+b=c
+c=a+b
+print c
+a=b
+b=c
+c=a+b
+print c
+a=b
+b=c
+c=a+b
+print c

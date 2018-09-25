@@ -1,6 +1,14 @@
-#include <stdio.h>
-int main(int argc, char const *argv[])
+#include <stdio.h> //pre-processor directive
+int main()
 {
-	printf("Hello World!\n");
+	int a = 5;
+	int b = 10;
+	printf("Address of a is %d \n", &a);
+	printf("%d\n", a+b);
 	return 0;
 }
+
+/*
+000
+1111
+*/
