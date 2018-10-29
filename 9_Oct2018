@@ -1,0 +1,9 @@
+To  write  a  C  program  to  swap  two  numbers. 
+ALGORITHM
+1. Start
+2. Read two numbers A, B
+3. Copy A to TEMP
+4. Copy B to A
+5. Copy TEMP to B
+7. Display A, B
+8. Stop

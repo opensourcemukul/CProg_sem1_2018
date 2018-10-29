@@ -1,0 +1,95 @@
+Doni Choudhary
+	
+Fri, Oct 5, 6:21 PM (15 hours ago)
+	
+to me
+Respected Sir, 
+I want to know that if switch is more efficient to use or if else and Why ?
+Thank you
+
+--------------
+Answer:
+1. Difference between if-else and switch
+-> 	if-else statement test for equality as well as for logical expression
+->	switch statement test only for equality.
+
+->	if statement evaluates integer, character, pointer or floating-point type or boolean type.	->	switch statement evaluates only character or integer value.
+
+2. for more than 5 cases, switch is faster due to use of hashing technique
+
+Ref: 
+https://www.geeksforgeeks.org/switch-vs-else/
+https://techdifferences.com/difference-between-if-else-and-switch.html
+---------------------------------------------------------------------------------------
+Mayank Mahajan
+	
+Fri, Oct 5, 6:32 PM (14 hours ago)
+	
+to me
+1) Sir why the 'continue' statement  sends the compiler back to the starting of the parent loop but not to the start of main().
+---------------
+Answer:
+
+22_prog.c
+---------------
+
+2) Can we use 'case' keyword outside switch () or what will happen if switch () is terminated before any 'case'
+--------------
+Answer:
+
+20_prog.c
+---------------------------------------------------------------------------------------
+
+Akash Katoch <katochakash93@gmail.com>
+	
+Fri, Oct 5, 7:25 PM (14 hours ago)
+	
+to me
+Respected Sir,
+
+I have doubts in the in the following:
+
+1. Unsigned and signed integer constants.
+2. Do we make use of 'continue' only inside loops?
+---------------
+Answer:
+
+22_prog.c
+---------------
+3. What are getchar and putchar functions.
+4. Escape sequences.
+
+Please explain these tomororrow in the doubt class.
+
+Thanks 
+
+---------------------------------------------------------------------------------------
+
+Harish Kumar <harish.58-cse-18@mietjammu.in>
+	
+Fri, Oct 5, 8:00 PM (13 hours ago)
+	
+to me
+purnendu prabhat sir,
+sir i am having problem in making program 16,17,18 that are posted on github.
+rest all okay.
+--------------
+Answer:
+16_prog.c
+17_prog.c
+18_prog.c
+
+---------------------------------------------------------------------------------------
+
+Gourav Gupta <gourav.88-cse-18@mietjammu.in>
+	
+Fri, Oct 5, 8:14 PM (18 hours ago)
+	
+to me
+Good Evening sir
+                                I Gourav Gupta 88-CSE branch sec. A2 have doubt in the topic switch ( break) ( continue) case and how to make flow chart general structure and what should we write in boxes.
+
+Thanks sir.
+Have a good sleep
+
+---------------------------------------------------------------------------------------

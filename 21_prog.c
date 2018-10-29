@@ -1,22 +1,22 @@
-#include <stdio.h> // galat program
+#include <stdio.h>
 int main(int argc, char const *argv[])
 {
 	int i;
 	int a = 1;
 	int b = 1;
 	int c;
-	label1: c=a+b;
+	for (i = 1; i <= 5; i=i+1)
+	{
 		if (i>2)
 		{
 			a = b;
 			b = c;
-			goto label1;
+			c = a + b;
+			printf("%d, ", c);
+			break;
 		}
-		else 
-		{
-			goto label2;
-		}
-		label2: c=1;
+		c=1;
 		printf("%d, ", c);
+	}
 	return 0;
 }

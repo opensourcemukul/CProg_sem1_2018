@@ -1,0 +1,9 @@
+To  write  a  C  program  to  swap  two  numbers. 
+ALGORITHM
+Input: Two numbers A and B
+Output: A and B are swapped
+1. Start
+2. TEMP = A
+3. A=B
+4. B=TEMP
+5. Stop
